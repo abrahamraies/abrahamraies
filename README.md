@@ -1,27 +1,27 @@
-# Hola :wave: ! 
-Mi nombre es Abraham Raies, soy de Argentina y soy Backend Developer
+# Hello :wave: ! 
+23 year old Argentinean living in Australia
 
-En mi trabajo actual en una compañía de seguros, realizo desarrollos en .NET Core, SAP CPI,SQL SERVER. Mis responsabilidades incluyen:
-* Desarrollo y mantenimiento de aplicaciones con .NET CORE.
-* Integración de sistemas utilizando SAP CPI.
-* Resolución de problemas y optimización.
-* Fomento del aprendizaje continuo y la colaboración.
-* Mi enfoque es contribuir al éxito del equipo y la empresa, mientras sigo aprendiendo y creciendo en mi carrera.
+I am a backend oriented software developer, using .NET technology.
+* Development and maintenance of applications with .NET CORE.
+* System integration using SAP CPI.
+* Troubleshooting and optimization.
+* Encouraging continuous learning and collaboration.
+* My focus is to contribute to the success of the team and the company, while continuing to learn and grow in my career.
 
-## Habilidades Técnicas
+## Technical Skills
 
-* Lenguajes de Programación: C#, Java, Javascript
+* Programming Languages: C#, Java, Javascript
 
-* Bases de Datos: SQL Server, MySQL, MongoDB
+* Databases: SQL Server, MySQL, MongoDB
 
-* Herramientas y Frameworks: Entity Framework, .NET Core , Angular, Spring Boot
+* Tools and Frameworks: Entity Framework, .NET Core , Angular, Spring Boot
 
-* Metodologías de Desarrollo: Scrum
+* Development Methodologies: Scrum
 
-* Herramientas de Desarrollo: Git,VS Code, VS 2022, Docker
+* Development Tools: Git,VS Code, VS 2022, Docker
 
-* Herramientas de Integracion/Mensajeria: RabbitMQ, SAP CPI (Cloud Platform Integration)
+* Integration/Messaging Tools: RabbitMQ, SAP CPI (Cloud Platform Integration)
 
-## Más sobre mí:
-* Busco constantemente expandir mis conocimientos en nuevas tecnologías y enfrentar desafíos. Soy autodidacta, trabajo bien en equipo y me enfoco en comprender los problemas a fondo para abordarlos desde la raíz.
-* Te dejo el link a mi portfolio en donde tambien se encuentra mi CV y mis datos de contacto. [website](https://abrahamraies.github.io/Portfolio/#home)
+## More about me:
+* I am constantly looking to expand my knowledge in new technologies and face challenges. I am self-taught, work well in a team and focus on understanding the problems in depth to address them from the root.
+* I leave you the link to my portfolio where you can also find my CV and my contact information. [website](https://abrahamraies.github.io/Portfolio)
