@@ -16,9 +16,9 @@ I am a backend oriented software developer, using .NET technology.
 
 * Tools and Frameworks: Entity Framework, .NET Core , Angular, Spring Boot
 
-* Development Methodologies: Scrum
+* Development Methodologies: Agile, Scrum
 
-* Development Tools: Git,VS Code, VS 2022, Docker
+* Development Tools: Git,VS Code, VS 2022, Docker, Azure, Azure DevOps
 
 * Integration/Messaging Tools: RabbitMQ, SAP CPI (Cloud Platform Integration)
 
