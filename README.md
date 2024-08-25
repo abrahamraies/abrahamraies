@@ -3,10 +3,11 @@
 
 I am a backend oriented software developer, using .NET technology.
 * Development and maintenance of applications with .NET CORE.
-* System integration using SAP CPI.
+* System integration using SAP CPI / RabbitMQ / Azure.
+* Knowledge in Angular and SQL Server, which complement my knowledge in the software area.
 * Troubleshooting and optimization.
-* Encouraging continuous learning and collaboration.
-* My focus is to contribute to the success of the team and the company, while continuing to learn and grow in my career.
+* Encourage continuous learning and collaboration.
+* My goal is to contribute to the success of the team and the company, while continuing to learn and grow in my career.
 
 ## Technical Skills
 
