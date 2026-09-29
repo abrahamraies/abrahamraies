@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a 24-year-old Argentinean software developer currently living in Australia. I'm a backend-oriented developer with a focus on .NET technologies, passionate about building efficient, scalable solutions while maintaining high-quality standards in every project. I'm constantly looking to improve my skills and embrace new challenges.
+I'm a 26-year-old Argentinean software developer currently living in Argentina. I'm a backend-oriented developer with a focus on .NET technologies, passionate about building efficient, scalable solutions while maintaining high-quality standards in every project. I'm constantly looking to improve my skills and embrace new challenges.
 
 - **Development & Maintenance** of applications using **.NET Core**.
 - **System Integration** with **SAP CPI**, **RabbitMQ**, and **Azure**.
